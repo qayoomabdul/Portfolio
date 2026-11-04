@@ -20,7 +20,7 @@ This repository contains my automation projects, research papers, and certificat
 
 ## Projects
 
-### [Autoclave HMI Replacement](ProjectsProjects/PLC_HMI/01-Autoclave_HMI_Replacement/README.md)
+### [Autoclave HMI Replacement](Projects/Industrial_Automation/01-Autoclave_HMI_Replacement)
 
 - Replaced the Chinese-language MCGS HMI on an industrial autoclave with a new English HMI
 - Left the original Siemens S7-200 PLC program untouched by reverse-engineering 225+ registers
