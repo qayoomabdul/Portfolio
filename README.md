@@ -29,7 +29,7 @@ This repository contains my automation projects, research papers, and certificat
 
 📎 [Open project detail](Projects/Autoclave_HMI_Replacement/README.md)
 
-### [Gas Compressor PLC–HMI Automation](Projects/Compressor_Automation/README.md)
+### [Gas Compressor PLC–HMI Automation](Projects/Industrial_Automation/02-Compressor_Automation/README.md)
 
 - Automated gas compressor startup with permissives, start gas/fuel sequencing, and RPM-based crank cutoff
 - Added retry with cooldown, trip recovery timer, ESD, and blowdown valve logic
@@ -38,7 +38,7 @@ This repository contains my automation projects, research papers, and certificat
 
 📎 [Open project detail](Projects/Compressor_Automation/README.md)
 
-### [Curing Oven HMI and Control](Projects/Curing_Oven_HMI/README.md)
+### [Curing Oven HMI and Control](Projects/Industrial_Automation/03-Curing_Oven_HMI/README.md)
 
 - MCGS HMI and S7-200 SMART control for an oven with 3 temperature points, 2 blowers, and 12 heaters
 - Recipe-driven temperature ramp/hold sequence running as a background script
@@ -47,7 +47,7 @@ This repository contains my automation projects, research papers, and certificat
 
 📎 [Open project detail](Projects/Curing_Oven_HMI/README.md)
 
-### [Thread Length Measurement](Projects/Thread_Length_Measurement/README.md)
+### [Thread Length Measurement](Projects/Industrial_Automation/04-Thread_Length_Measurement/README.md)
 
 - Measures thread length on a winding drum using a Delta PLC and an Omron encoder
 - High-speed counting of quadrature signals, calibrated to about 0.061 mm per pulse
