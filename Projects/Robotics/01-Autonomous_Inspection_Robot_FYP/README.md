@@ -3,7 +3,7 @@
 **Bachelor of Mechatronic Engineering — Mehran University of Engineering & Technology, Jamshoro (December 2024)**
 Team of three, supervised by Engr. Aamir Shaikh.
 
-📄 [Read the full thesis (PDF)](FYP_Thesis.pdf)
+📄 [Read the full thesis (PDF)](Projects/Robotics/01-Autonomous_Inspection_Robot_FYP/FYP_Thesis_Final_Draft.pdf)
 
 ## Problem
 Manual inspection of metal surfaces in hazardous environments such as reactor pressure vessels is slow, costly, and exposes workers to risk.
