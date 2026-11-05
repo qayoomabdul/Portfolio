@@ -65,7 +65,7 @@ This repository contains my automation projects, research papers, and certificat
 - Developed an AI-driven inspection system integrated with Human-Machine Interface (HMI)
 - Focused on real-time deployment of vision models in industrial environments
 
-📎 [View Publisher Page](https://www.okipublishing.com/book/index.php/okip/catalog/book/64) 📎 [Research_Papers/DEVELOPMENT_OF_ROBOTIC_SYSTEM_FOR_PRESSURE_VESSEL_INSPECTION.pdf)
+📎 [View Publisher Page](https://www.okipublishing.com/book/index.php/okip/catalog/book/64) 📎[Open PDF](Research_Papers/DEVELOPMENT_OF_ROBOTIC_SYSTEM_FOR_PRESSURE_VESSEL_INSPECTION.pdf)
 
 ### Autonomous Robot Design and Control (Submitted)
 
