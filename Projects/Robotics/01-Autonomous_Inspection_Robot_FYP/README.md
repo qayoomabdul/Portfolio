@@ -31,7 +31,7 @@ An autonomous mobile inspection robot with an operator HMI and AI-based crack de
 Arduino Mega 2560 · C# / WPF · MATLAB · Python · YOLOv11-seg · ONNX · CVAT · Google Colab (Tesla T4)
 
 ## Related paper
-[Development of a Robotic System for Pressure Vessel Inspection](../../../Research_Papers/Development_of_a_Robotic_System_for_Pressure_Vessel_Inspection.pdf)
+[Development of a Robotic System for Pressure Vessel Inspection](Research_Papers/DEVELOPMENT_OF_ROBOTIC_SYSTEM_FOR_PRESSURE_VESSEL_INSPECTION.pdf)
 
 ## Media
 - [<img width="514" height="365" alt="image" src="https://github.com/user-attachments/assets/30afa7a5-839a-4cc9-b4af-0e859c64f92d" />
